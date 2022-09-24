@@ -14,6 +14,6 @@ https://vitejs.dev (Mais performatico que o create)
 7. `npm install`
 8. `npm run dev` roda o projeto
 
-## **Instalação do SASS no Vite**
+## **Instalação do SASS utilizando Vite**
 
 `npm install -D sass`
