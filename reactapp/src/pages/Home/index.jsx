@@ -6,7 +6,7 @@ import React, { useState, useEffect } from 'react';
 a interface inicie um novo ciclo toda vez que o conteudo mudar
 */ 
 
-import './styles.css';
+import './styles.scss';
 
 // ============================================= Importando arquivos CSS ================================================= 
 import { Card } from '../../components/Card';

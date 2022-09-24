@@ -13,3 +13,7 @@ https://vitejs.dev (Mais performatico que o create)
 6. Enter
 7. `npm install`
 8. `npm run dev` roda o projeto
+
+## **Instalação do SASS no Vite**
+
+`npm install -D sass`

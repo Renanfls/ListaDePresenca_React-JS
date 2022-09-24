@@ -1,4 +1,4 @@
-import './styles.css';
+import './styles.scss';
 
 /* Obtem as propriedades através do parâmetro `props` */
 export function Card(props) {
